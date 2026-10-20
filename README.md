@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@K.Manoharan](https://github.com/your-username)
+- GitHub: [@K.Manoharan](https://github.com/Manoharan-offical)
 - LinkedIn: [K.Manoharan]linkedin.com/in/manoharan-k-9928b1418)
 
 ---
